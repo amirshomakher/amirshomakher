@@ -8,5 +8,5 @@
 | ![Java] **Java** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 89% |
 | ![HTML5] **HTML** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | ![CSS3]**CSS** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| ![React] **React** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
-| ![React Native]**React Native** | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20% | In progress
+| ![React] **React** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 50% |
+| ![React Native]**React Native** | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 20% | In progress
